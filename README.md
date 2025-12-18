@@ -222,8 +222,9 @@ The methodology is easily extendable to other crops and regions.
 
 ## Author
 
-**Zachary Monari**
-ZachTechs Projects
+**Zachary Monari(ZachTechs Projects)**
+
+
 Focus: Data-driven engineering, machine learning, and agri-tech applications
 
 ---
